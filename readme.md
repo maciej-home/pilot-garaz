@@ -6,7 +6,7 @@
 
 ### BOM
 - ESP8266 (NodeMCU / Wemos D1 Mini / inny)
-- Tranzysor NPN (na schemacie poniżej narysowany jest tranzystor o wyprowadzeniach ECB - emiter-kolektor-baza)
+- Tranzystor NPN (na schemacie poniżej narysowany jest tranzystor o wyprowadzeniach ECB - emiter-kolektor-baza)
 
 ![schemat układu](schemat.png)
 
